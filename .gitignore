@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+certs/
+public_keys/
+private_keys/
+test_transfer/
+local_test/
+*.pdf
+poetry.lock
