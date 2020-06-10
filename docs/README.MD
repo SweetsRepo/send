@@ -8,6 +8,16 @@ Note that in order to use the invitation.py functions for inviting others to
 share and confirming invitations you must allow external connections in gmail:
 https://myaccount.google.com/lesssecureapps
 
+## Getting Started
+------------------
+1. Clone the Repository
+```
+git clone https://github.com/send-dev/send.git
+```
+2. Ensure Python 3.6+ and PyZMQ 18.1.1+ are installed
+3. And you should now be able to send invitations and transfer files as shown
+   below
+   
 ## Invite User to Share - Email
 -------------------------------
 ```
